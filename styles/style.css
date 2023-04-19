@@ -169,6 +169,7 @@ html {
   }
 
   #kanyeImg {
+    position: absolute;
     height: 500px;
     width: 280px;
     transform: translate(300%, -85%);
@@ -204,7 +205,3 @@ html {
     margin-left: 70px;
     font-weight: lighter;
   }
-
-
-
-
